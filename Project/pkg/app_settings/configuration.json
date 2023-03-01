@@ -1,0 +1,11 @@
+{
+  "host": "localhost",
+  "port": "8080",
+  "sms_data_file_path": "../../skillbox-diploma/sms.data",
+  "mms_data_url_address": "http://127.0.0.1:8383/mms",
+  "voice_call_data_file_path" : "../../skillbox-diploma/voice.data",
+  "email_data_file_path": "../../skillbox-diploma/email.data",
+  "billing_data_file_path": "../../skillbox-diploma/billing.data",
+  "support_data_url_address": "http://127.0.0.1:8383/support",
+  "incident_data_url_address": "http://127.0.0.1:8383/accendent"
+}
