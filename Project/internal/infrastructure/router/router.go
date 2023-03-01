@@ -14,7 +14,7 @@ func NewRouter(e *echo.Echo, c controller.AppController) *echo.Echo {
 		return c.GetSMSData(ctx)
 	})
 
-	e.GET("/mms", func(ctx echo.Context) error { // TODO routes
+	e.GET("/mms", func(ctx echo.Context) error {
 		return c.GetMMSData(ctx)
 	})
 
