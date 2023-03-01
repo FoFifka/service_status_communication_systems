@@ -10,8 +10,8 @@ Example work of one of the routes
 ![alt text](https://sun9-2.userapi.com/impg/GqUiC91jbd1u63y0qsCZ54fRrV6XIC1iQK2lhw/4bDiMEnYzq0.jpg?size=591x751&quality=96&sign=284827ee9161125a50ea6e3001d55f3b&type=album)
 
 
-If you want to run
-Open console in ../Project/cmd and write command:
+If you want to run,
+open console in ../Project/cmd and write command:
 go run main.go
 
 And open another console in ../skillbox-diploma and write command:
